@@ -1,0 +1,18 @@
+browser_data/
+bot_chrome_profile/
+logs/
+artifacts/
+__pycache__/
+*.pyc
+.claude/
+.DS_Store
+*.pdf
+.env
+.venv/
+dist/
+*.egg-info/
+
+# Personal data — never commit (contains PII/credentials)
+user_profile.json
+application_tracker.json
+jobs.txt

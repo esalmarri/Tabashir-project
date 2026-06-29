@@ -1,0 +1,67 @@
+{
+  "first_name": "Jane",
+  "last_name": "Doe",
+  "email": "jane.doe@example.com",
+  "password": "CHANGE_ME",
+  "phone": "0500000000",
+  "country_code": "+971",
+  "address": "123 Example Street",
+  "city": "Dubai",
+  "state": "Dubai",
+  "zip_code": "00000",
+  "country": "United Arab Emirates",
+  "nationality": "United States",
+  "linkedin_url": "https://linkedin.com/in/jane-doe",
+  "github_url": "https://github.com/jane-doe",
+  "portfolio_url": "",
+  "resume_path": "./resume.pdf",
+  "cover_letter_path": "",
+
+  "education": {
+    "school": "Example University",
+    "degree": "Master's",
+    "field_of_study": "Computer Science",
+    "graduation_year": "2024",
+    "bachelors_degree": "Bachelor's of Science, Computer Science",
+    "gpa": "3.8/4.00"
+  },
+
+  "current_job_title": "Software Engineer",
+  "work_authorization": "Yes",
+  "sponsorship_needed": "No",
+  "years_of_experience": "3",
+  "salary_expectation": "",
+  "start_date": "Immediately",
+  "gender": "Prefer not to say",
+  "race_ethnicity": "Prefer not to say",
+  "veteran_status": "No",
+  "disability_status": "Prefer not to say",
+  "date_of_birth": "1990-01-01",
+
+  "custom_answers": {
+    "hear_about": "Online job board",
+    "why_interested": "1-3 sentences on why you want this type of role and the relevant strengths you bring.",
+    "cover_letter_text": "A short, reusable cover-letter paragraph: your background, two or three quantified achievements, and your availability.",
+    "additional_info": "Any extra context worth surfacing on applications (work authorization, availability, notable achievements)."
+  },
+
+  "career_narrative": "A 2-4 sentence professional summary: who you are, your strongest quantified achievements, and the kinds of roles you target.",
+
+  "proof_points": [
+    {
+      "text": "A concrete, quantified accomplishment — what you did and the measurable result.",
+      "keywords": ["skill", "technology", "domain", "tool"]
+    },
+    {
+      "text": "Another quantified accomplishment relevant to the roles you apply for.",
+      "keywords": ["skill", "technology", "domain"]
+    }
+  ],
+
+  "star_stories": [
+    {
+      "text": "Situation: the context and problem.\nTask: what you were responsible for.\nAction: what you did and how.\nResult: the measurable outcome.",
+      "tags": ["skill", "technology", "domain"]
+    }
+  ]
+}
